@@ -8,3 +8,7 @@ Programing languages I can program in are:
 
 My resume link:
  <a href="https://docs.google.com/document/d/1ercqX5qwTpjKh-49-PlByNajJBc7rLps9VjhhxHCkjw/edit?tab=t.0">resume Elliott Roach</a>
+
+My other github account: 
+ <a href="https://github.com/elliottjroach-byte">ElliottJRoach</a>
+ 
