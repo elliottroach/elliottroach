@@ -7,7 +7,7 @@ Programing languages I can program in are:
   <a href="https://github.com/search?q=user%3Aelliottroach+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
 
 My resume link:
- <a href="https://docs.google.com/document/d/1ercqX5qwTpjKh-49-PlByNajJBc7rLps9VjhhxHCkjw/edit?tab=t.0">resume Elliott Roach</a>
+ <a href="https://docs.google.com/document/d/1ercqX5qwTpjKh-49-PlByNajJBc7rLps9VjhhxHCkjw/edit?tab=t.0">Resume Elliott Roach</a>
 
 My other github account: 
  <a href="https://github.com/elliottjroach-byte">ElliottJRoach</a>
